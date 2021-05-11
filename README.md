@@ -1,4 +1,10 @@
 # Java-Snake-Game
+
+Code provided upon request!
+
+
+Requirements:
+
 The classic snake game with JavaFX animation and cool additional features.
 
 If you are on the game over page, then you can only go back to the Splash Page by pressing R
